@@ -1,2 +1,4 @@
 # BASIC_PROJECT-PYTHON
-This repo contains all basic project using python
+This repo contain almost all basic project
+<br>
+Using only python language
